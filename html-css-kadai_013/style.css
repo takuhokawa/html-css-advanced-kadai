@@ -85,6 +85,8 @@ PC用のスタイル
   #menu-sp {
     float: right;
     padding: 0;
+    border: none;
+    background-color: transparent;
   }
 
   #nav-sp {
@@ -110,6 +112,8 @@ PC用のスタイル
     position: absolute;
     top: 20px;
     right: 20px;
+    border: none;
+    background-color: transparent;
   }
 
   #logo-sp {
